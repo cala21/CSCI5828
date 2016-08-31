@@ -1,4 +1,4 @@
-#Homework 1: `no silver bullet`
+#Homework 1: “no silver bullet”
 ##Question 1
 *Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.*
 
