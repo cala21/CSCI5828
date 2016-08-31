@@ -1,4 +1,4 @@
-#Homework 1: \\”no silver bullet\\”
+#Homework 1: \”no silver bullet\”
 ##Question 1
 *Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.*
 
@@ -28,14 +28,14 @@ For example, if at CU it is introduced a new school which allows students to not
 
 **Changeability** goes along with *conformity*; *changeability* is, indeed, the essential difficulty that deals with the fact that a software has to grow and change constantly. Visa USA has an incredible cybersecurity system; however, the field of cybersecurity is relatively new and unknown. Hackers finds continuously new ways to break into the systems, thus Visa needs to continuously update their softwares to protect the system form new creative attacks. 
 
-**Invisibility** is the essential difficult which delineates the inherit property of a software: the code is “invisible” and “intangible”. 
+**Invisibility** is the essential difficult which delineates the inherit property of a software: the code is \“invisible\” and \“intangible\”. 
 
 ##Question 4
 Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.
 
 In lecture we discussed the concept of silver bullet and we developed its definition: 
-a “silver bullet” is single technique or technology that by itself can deliver one order-of magnitude improvement to some aspect of software development. 
-For Brooks there are not silver bullets in the sense that there is no actual “cure against the software crisis”. There is no way softwares can keep up with the the growth of computer hardware. 
+a \“silver bullet\” is single technique or technology that by itself can deliver one order-of magnitude improvement to some aspect of software development. 
+For Brooks there are not silver bullets in the sense that there is no actual \“cure against the software crisis\”. There is no way softwares can keep up with the the growth of computer hardware. 
 
 Brooks argues that most techniques attack the accidents of software
 engineering
