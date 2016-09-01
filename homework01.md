@@ -1,4 +1,4 @@
-#Homework 1: “no silver bullet”
+#Homework 1: No silver bullet
 
 ***
 
