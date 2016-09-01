@@ -1,5 +1,6 @@
 #Homework 1: “no silver bullet”
-——-
+
+***
 
 ##Question 1
 *Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.*
@@ -12,17 +13,19 @@ The essence of a software entity is the collective of algorithms, data sets, fun
 
 For example, the choice of creating a compiler in Java exposes the programmer to a detailed implementation which can be far more difficult then other implementations; the programmer has to adapt and deal with it because the problem (the specific requirements required by the Java) cannot be removed.
 
-——-
+***
 
 ##Question 2
 *Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.*
 
-Accidental difficulties are those difficulties related to the production of software; they are artificial barriers such as >“hardware constraints, lack of machine time and awkward programming languages”.
+Accidental difficulties are those difficulties related to the production of software; they are artificial barriers such as 
+
+>“hardware constraints, lack of machine time and awkward programming languages”.
 
 These are problems which experts create and thus can fix; they are usually related to the production of software. 
 For example, if we struggle with a not intuitive language, like Fortran, to achieve a certain goal which could be achieved using OO and a higher level language, we would fix the problem and have a faster production of qualitative code by adopting python as our coding language. 
 
-——-
+***
 
 ##Question 3
 *List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.*
@@ -42,7 +45,7 @@ For example, if at CU it is introduced a new school which allows students to not
 
 **Invisibility** is the essential difficult which delineates the inherit property of a software: the code is “invisible” and “intangible”. For example PrePaid (an internal Visa application) has a lot of abstraction and it is really difficult to have a complete view of the web api when you have to work on it. If refactoring is needed this can represent a problem.
 
-——-
+***
 
 ##Question 4
 Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.
@@ -52,12 +55,12 @@ a “silver bullet” is single technique or technology that by itself can deliv
 For Brooks there are not silver bullets in the sense that there is no actual “cure against the software crisis”. Indeed, for what concerns essential problems, Brooks argues that “no single technique could produce an order of magnitude increase by itself.”
 Moreover, in Brooks’ opinion, most techniques attack the accidents of software engineering which more or less count for 90% of the overall effort. In order to have a 10-times improvement we would have to reduce accidental problems to zero, thing that Brooks doesn’t believe to be possible because to reduce accidental problems we should introduce new tools which would introduce new problems.
 
-——-
+***
 
 ##Question 5
 In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
 
-——-
+***
 
 ##Question 6
 In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
