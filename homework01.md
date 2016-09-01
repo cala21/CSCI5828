@@ -30,7 +30,7 @@ For example, if we struggle with a not intuitive language, like Fortran, to achi
 ##Question 3
 *List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.*
 
-Brooke’s identifies four subcategories of essential difficulties:
+Brooks identifies four subcategories of essential difficulties:
 * complexity
 * conformity
 * changeability
@@ -48,11 +48,12 @@ For example, if at CU it is introduced a new school which allows students to not
 ***
 
 ##Question 4
-Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.
+*Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.*
 
 In lecture we discussed the concept of silver bullet and we developed its definition: 
-a “silver bullet” is single technique or technology that by itself can deliver one order-of magnitude improvement to some aspect of software development. 
-For Brooks there are not silver bullets in the sense that there is no actual “cure against the software crisis”. Indeed, for what concerns essential problems, Brooks argues that “no single technique could produce an order of magnitude increase by itself.”
+>a “silver bullet” is single technique or technology that by itself can deliver one order-of magnitude improvement to some aspect of software development. 
+For Brooks there are not silver bullets in the sense that there is no actual 
+>“cure against the software crisis”. Indeed, for what concerns essential problems, Brooks argues that “no single technique could produce an order of magnitude increase by itself.”
 Moreover, in Brooks’ opinion, most techniques attack the accidents of software engineering which more or less count for 90% of the overall effort. In order to have a 10-times improvement we would have to reduce accidental problems to zero, thing that Brooks doesn’t believe to be possible because to reduce accidental problems we should introduce new tools which would introduce new problems.
 
 ***
