@@ -53,7 +53,9 @@ For example, if at CU it is introduced a new school which allows students to not
 In lecture we discussed the concept of silver bullet and we developed its definition: 
 >a “silver bullet” is single technique or technology that by itself can deliver one order-of magnitude improvement to some aspect of software development. 
 For Brooks there are not silver bullets in the sense that there is no actual 
->“cure against the software crisis”. Indeed, for what concerns essential problems, Brooks argues that “no single technique could produce an order of magnitude increase by itself.”
+*“cure against the software crisis”*. Indeed, for what concerns essential problems, Brooks argues that 
+>“no single technique could produce an order of magnitude increase by itself.”
+
 Moreover, in Brooks’ opinion, most techniques attack the accidents of software engineering which more or less count for 90% of the overall effort. In order to have a 10-times improvement we would have to reduce accidental problems to zero, thing that Brooks doesn’t believe to be possible because to reduce accidental problems we should introduce new tools which would introduce new problems.
 
 ***
@@ -61,7 +63,28 @@ Moreover, in Brooks’ opinion, most techniques attack the accidents of software
 ##Question 5
 In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
 
+Software engineering is that field of engineering which mission is to implement a functional product based on a vision through the techniques and algorithm developed in computer science. . A chemist studies the peculiar features of a substance an derives its property, thus developing a theory on how to use it so that the chemical engineer can apply the theory developed and deliver a marketable product which entangles several theories and processes. Like the chemist, a computer scientist aims to study peculiar problems to derive a theory on how to solve the problem or to improve the existing solution. Like a chemical engineer, a software engineer aims to produce an end product that can be distributed in the market (a pill in case of a chemical engineer, a software in case of a software engineer).
+
 ***
 
 ##Question 6
-In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
+*In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.*
+
+####Abstractions
+developing abstractions that break the problem down into something
+that is understandable
+• and/or
+• by using abstractions developed by others
+• The file system? An abstraction. A database? An abstraction. Twitter’s API?
+An abstraction. Your own Employee class? An abstraction. 
+
+####Conversations
+Conversation is the dialog that happens amongst a group of people. It is what we need to understand a problem and we need to solve it, when we need to understand a part of code that another developer created, when we need to write code3, when we need to make sure every part of the software we wrote is working properly.
+
+####Specification
+
+####Translation
+The work of software engineering is one of translation, from one specification to another; from one level of abstraction to another; from one set of structures to another 
+
+####Iteration
+The work of software engineering is done iteratively; step by step until we are “done”
