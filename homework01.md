@@ -52,6 +52,7 @@ For example, if at CU it is introduced a new school which allows students to not
 
 In lecture we discussed the concept of silver bullet and we developed its definition: 
 >a “silver bullet” is single technique or technology that by itself can deliver one order-of magnitude improvement to some aspect of software development. 
+
 For Brooks there are not silver bullets in the sense that there is no actual 
 *“cure against the software crisis”*. Indeed, for what concerns essential problems, Brooks argues that 
 >“no single technique could produce an order of magnitude increase by itself.”
