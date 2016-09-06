@@ -72,20 +72,17 @@ Software engineering is that field of engineering which mission is to implement 
 *In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.*
 
 ####Abstractions
-developing abstractions that break the problem down into something
-that is understandable
-• and/or
-• by using abstractions developed by others
-• The file system? An abstraction. A database? An abstraction. Twitter’s API?
-An abstraction. Your own Employee class? An abstraction. 
+Abstraction is a praxis that developers use to avoid repetitions of a certain structure. It is an important part of software engineering because it breaks the problem down into something that is easier to understand. Examples of abstractions are databases, APIs etc… .
+
 
 ####Conversations
-Conversation is the dialog that happens amongst a group of people. It is what we need to understand a problem and we need to solve it, when we need to understand a part of code that another developer created, when we need to write code3, when we need to make sure every part of the software we wrote is working properly.
+Conversation is the verbal interaction that happens amongst a group of people. It is what we need to understand a problem, to solve it, to understand a part of code that another developer created, to write code and to make sure every part of the software we wrote is working properly.
 
 ####Specification
+Specification is a detailed layout of the component described; it describes requirements (functional and non-functional), “*it includes design, code, test plan and life cycles*” (slides week 1.) It is important in software engineering because it provides the engineers with the needed knowledge to develop a successful product.
 
 ####Translation
-The work of software engineering is one of translation, from one specification to another; from one level of abstraction to another; from one set of structures to another 
+In software engineering a developer is mainly a translator. The translation happens, indeed, continuously amongst specifications, abstractions and structures. Translation makes the product scalable, available and flexible.
 
 ####Iteration
-The work of software engineering is done iteratively; step by step until we are “done”
+Iteration is defined as the repetition of a certain task/action/procedure. Both in programming and in the development phase iteration constitutes the cell of the project. “The work of a software engineering is done iteratively” (slides week 1), the behavior of a program is mostly iterative. Iteration defines a methodology and thus a behavioral praxis. 
