@@ -1,4 +1,5 @@
-#Homework 1: No silver bullet
+## Camilla Lambrocco
+# Homework 1: No silver bullet
 
 ***
 
@@ -43,7 +44,7 @@ For example, if at CU it is introduced a new school which allows students to not
 
 **Changeability** goes along with *conformity*; *changeability* is, indeed, the essential difficulty that deals with the fact that a software has to grow and change constantly. Visa USA has an incredible cybersecurity system; however, the field of cybersecurity is relatively new and unknown. Hackers finds continuously new ways to break into the systems, thus Visa needs to continuously update their softwares to protect the system form new creative attacks. 
 
-**Invisibility** is the essential difficult which delineates the inherit property of a software: the code is “invisible” and “intangible”. For example PrePaid (an internal Visa application) has a lot of abstraction and it is really difficult to have a complete view of the web api when you have to work on it. If refactoring is needed this can represent a problem.
+**Invisibility** is the essential difficulty which delineates the inherit property of a software: the code is “invisible” and “intangible”. For example PrePaid (an internal Visa application) has a lot of abstraction and it is really difficult to have a complete view of the web api when you have to work on it. If refactoring is needed, this can represent a problem.
 
 ***
 
@@ -64,7 +65,7 @@ Moreover, in Brooks’ opinion, most techniques attack the accidents of software
 ##Question 5
 In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
 
-Software engineering is that field of engineering which mission is to implement a functional product based on a vision through the techniques and algorithm developed in computer science. . A chemist studies the peculiar features of a substance an derives its property, thus developing a theory on how to use it so that the chemical engineer can apply the theory developed and deliver a marketable product which entangles several theories and processes. Like the chemist, a computer scientist aims to study peculiar problems to derive a theory on how to solve the problem or to improve the existing solution. Like a chemical engineer, a software engineer aims to produce an end product that can be distributed in the market (a pill in case of a chemical engineer, a software in case of a software engineer).
+Software engineering is that field of engineering which mission is to implement a functional product. The product is based on a vision and it is implemented using techniques and algorithms developed in computer science. A chemist studies the peculiar features of a substance an derives its property. S/he develops a theory on how to use it so that the chemical engineer can apply the theory developed by the chemist and deliver a marketable product which entangles several theories and processes. Like the chemist, a computer scientist aims to study a characteristic problem to derive a theory on how to solve it or to improve the existing solution. Like a chemical engineer, a software engineer aims to produce an end product that can be distributed in the market (a pill in case of the chemical engineer, a software in case of the software engineer).
 
 ***
 
